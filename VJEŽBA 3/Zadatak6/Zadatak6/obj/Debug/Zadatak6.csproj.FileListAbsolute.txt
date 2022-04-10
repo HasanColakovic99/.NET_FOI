@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\bin\Debug\Zadatak6.exe.config
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\bin\Debug\Zadatak6.exe
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\bin\Debug\Zadatak6.pdb
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\bin\Debug\KucnaKnjiznicaLib.dll
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.Knjige.resources
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.Properties.Resources.resources
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.csproj.CopyComplete
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.exe
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.pdb
+C:\Users\DELL\source\repos\Zadatak6\Zadatak6\obj\Debug\Zadatak6.Nova_posudba.resources

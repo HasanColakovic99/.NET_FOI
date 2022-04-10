@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak13\Zadatak13\bin\Debug\Zadatak13.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak13\Zadatak13\bin\Debug\Zadatak13.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak13\Zadatak13\bin\Debug\Zadatak13.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak13\Zadatak13\obj\Debug\Zadatak13.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak13\Zadatak13\obj\Debug\Zadatak13.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak13\Zadatak13\obj\Debug\Zadatak13.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak13\Zadatak13\obj\Debug\Zadatak13.pdb

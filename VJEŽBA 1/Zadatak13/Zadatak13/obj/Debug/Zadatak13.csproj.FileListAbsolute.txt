@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Zadatak13\Zadatak13\bin\Debug\Zadatak13.exe.config
+C:\Users\DELL\source\repos\Zadatak13\Zadatak13\bin\Debug\Zadatak13.exe
+C:\Users\DELL\source\repos\Zadatak13\Zadatak13\bin\Debug\Zadatak13.pdb
+C:\Users\DELL\source\repos\Zadatak13\Zadatak13\obj\Debug\Zadatak13.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Zadatak13\Zadatak13\obj\Debug\Zadatak13.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Zadatak13\Zadatak13\obj\Debug\Zadatak13.exe
+C:\Users\DELL\source\repos\Zadatak13\Zadatak13\obj\Debug\Zadatak13.pdb
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak13\Zadatak13\bin\Debug\Zadatak13.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak13\Zadatak13\bin\Debug\Zadatak13.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak13\Zadatak13\bin\Debug\Zadatak13.pdb
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak13\Zadatak13\obj\Debug\Zadatak13.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak13\Zadatak13\obj\Debug\Zadatak13.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak13\Zadatak13\obj\Debug\Zadatak13.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak13\Zadatak13\obj\Debug\Zadatak13.pdb

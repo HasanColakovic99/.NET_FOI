@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\bin\Debug\Autentifikacija.exe.config
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\bin\Debug\Autentifikacija.exe
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\bin\Debug\Autentifikacija.pdb
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\bin\Debug\AutentifikacijaLib.dll
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\obj\Debug\Autentifikacija.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\obj\Debug\Autentifikacija.Form1.resources
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\obj\Debug\Autentifikacija.Properties.Resources.resources
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\obj\Debug\Autentifikacija.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\obj\Debug\Autentifikacija.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\obj\Debug\Autentifikacija.csproj.CopyComplete
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\obj\Debug\Autentifikacija.exe
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\obj\Debug\Autentifikacija.pdb
+C:\Users\DELL\source\repos\Autentifikacija\Autentifikacija\obj\Debug\Autentifikacija.User_profile.resources

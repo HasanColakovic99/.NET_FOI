@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\bin\Debug\AutentifikacijaLib.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\obj\Debug\Zadatak1.Form1.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CopyComplete
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak1\Zadatak1\obj\Debug\Zadatak1.Administrators_Start_Form.resources

@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\bin\Debug\Zadatak5.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\bin\Debug\Zadatak5.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\bin\Debug\Zadatak5.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\bin\Debug\BankaLib.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\obj\Debug\Zadatak5.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\obj\Debug\Zadatak5.Form1.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\obj\Debug\Zadatak5.Properties.Resources.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\obj\Debug\Zadatak5.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\obj\Debug\Zadatak5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\obj\Debug\Zadatak5.csproj.CopyComplete
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\obj\Debug\Zadatak5.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\obj\Debug\Zadatak5.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak5\Zadatak5\obj\Debug\Zadatak5.Detalji.resources

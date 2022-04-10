@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak9\Zadatak9\bin\Debug\Zadatak9.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak9\Zadatak9\bin\Debug\Zadatak9.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak9\Zadatak9\bin\Debug\Zadatak9.pdb
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak9\Zadatak9\obj\Debug\Zadatak9.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak9\Zadatak9\obj\Debug\Zadatak9.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak9\Zadatak9\obj\Debug\Zadatak9.pdb

@@ -1,0 +1,5 @@
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\BankAdvanced\MjenjacnicaLib\obj\Debug\MjenjacnicaLib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\BankAdvanced\MjenjacnicaLib\obj\Debug\MjenjacnicaLib.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\BankAdvanced\MjenjacnicaLib\obj\Debug\MjenjacnicaLib.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\BankAdvanced\MjenjacnicaLib\bin\Debug\MjenjacnicaLib.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\BankAdvanced\MjenjacnicaLib\bin\Debug\MjenjacnicaLib.pdb

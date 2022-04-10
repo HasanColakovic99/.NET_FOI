@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C# ZADACI\Vježba2\Vježba2\bin\Debug\Vježba2.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\Vježba2\Vježba2\bin\Debug\Vježba2.exe
+C:\Users\DELL\Desktop\C# ZADACI\Vježba2\Vježba2\bin\Debug\Vježba2.pdb
+C:\Users\DELL\Desktop\C# ZADACI\Vježba2\Vježba2\obj\Debug\Vježba2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\Vježba2\Vježba2\obj\Debug\Vježba2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\Vježba2\Vježba2\obj\Debug\Vježba2.exe
+C:\Users\DELL\Desktop\C# ZADACI\Vježba2\Vježba2\obj\Debug\Vježba2.pdb

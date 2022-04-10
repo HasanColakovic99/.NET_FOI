@@ -1,0 +1,12 @@
+C:\Users\Zlatko\Desktop\PI Vježbe\Zadaci 04\Vozila\bin\Debug\Vozila.dll
+C:\Users\Zlatko\Desktop\PI Vježbe\Zadaci 04\Vozila\bin\Debug\Vozila.pdb
+C:\Users\Zlatko\Desktop\PI Vježbe\Zadaci 04\Vozila\obj\Debug\Vozila.csprojAssemblyReference.cache
+C:\Users\Zlatko\Desktop\PI Vježbe\Zadaci 04\Vozila\obj\Debug\Vozila.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\PI Vježbe\Zadaci 04\Vozila\obj\Debug\Vozila.dll
+C:\Users\Zlatko\Desktop\PI Vježbe\Zadaci 04\Vozila\obj\Debug\Vozila.pdb
+C:\Users\DELL\Desktop\Vozila\Vozila\bin\Debug\Vozila.dll
+C:\Users\DELL\Desktop\Vozila\Vozila\bin\Debug\Vozila.pdb
+C:\Users\DELL\Desktop\Vozila\Vozila\obj\Debug\Vozila.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Vozila\Vozila\obj\Debug\Vozila.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Vozila\Vozila\obj\Debug\Vozila.dll
+C:\Users\DELL\Desktop\Vozila\Vozila\obj\Debug\Vozila.pdb

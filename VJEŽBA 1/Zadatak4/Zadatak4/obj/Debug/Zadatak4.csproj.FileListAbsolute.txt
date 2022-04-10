@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak4\Zadatak4\bin\Debug\Zadatak4.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak4\Zadatak4\bin\Debug\Zadatak4.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak4\Zadatak4\bin\Debug\Zadatak4.pdb
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak4\Zadatak4\obj\Debug\Zadatak4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak4\Zadatak4\obj\Debug\Zadatak4.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak4\Zadatak4\obj\Debug\Zadatak4.pdb

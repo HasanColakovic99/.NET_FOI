@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozila", "Vozila\Vozila.csproj", "{3272FC79-A09D-4BEA-B98A-6E04B5A8076D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vozila_Forms", "Vozila_Forms\Vozila_Forms.csproj", "{B3062D57-65A3-4F58-8A3D-28594266957B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3272FC79-A09D-4BEA-B98A-6E04B5A8076D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3272FC79-A09D-4BEA-B98A-6E04B5A8076D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3272FC79-A09D-4BEA-B98A-6E04B5A8076D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3272FC79-A09D-4BEA-B98A-6E04B5A8076D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3062D57-65A3-4F58-8A3D-28594266957B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3062D57-65A3-4F58-8A3D-28594266957B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3062D57-65A3-4F58-8A3D-28594266957B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3062D57-65A3-4F58-8A3D-28594266957B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A47A2F14-7942-4075-B7D6-03625CC6FC38}
+	EndGlobalSection
+EndGlobal

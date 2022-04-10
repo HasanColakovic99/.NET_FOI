@@ -1,0 +1,50 @@
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\bin\Debug\BankAdvanced.exe.config
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\bin\Debug\BankAdvanced.exe
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\bin\Debug\BankAdvanced.pdb
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\bin\Debug\BankaLib.dll
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\bin\Debug\BankaLib.pdb
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.csprojAssemblyReference.cache
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.DetaljiKlijentaForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.KlijentiForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.KreirajKlijentaForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.NovaTransakcijaForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.OdaberiKlijentaForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.OdaberiRacunForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.OdaberiValutuForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.OtvoriDevizniRacunForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.OtvoriTekuciRacunForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.PocetnaForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.Properties.Resources.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.RacuniForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.RacuniTransakcijeForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.TransakcijeForm.resources
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.csproj.GenerateResource.cache
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.csproj.CopyComplete
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.exe
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankAdvanced\obj\Debug\BankAdvanced.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.DetaljiKlijentaForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.KlijentiForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.KreirajKlijentaForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.NovaTransakcijaForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.OdaberiKlijentaForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.OdaberiRacunForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.OdaberiValutuForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.OtvoriDevizniRacunForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.OtvoriTekuciRacunForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.PocetnaForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.Properties.Resources.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.RacuniForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.RacuniTransakcijeForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.TransakcijeForm.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\bin\Debug\BankAdvanced.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\bin\Debug\BankAdvanced.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\bin\Debug\BankAdvanced.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\bin\Debug\BankaLib.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\bin\Debug\BankaLib.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.csproj.CopyComplete
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankAdvanced\obj\Debug\BankAdvanced.pdb

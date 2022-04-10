@@ -1,0 +1,11 @@
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\Vjezba4_Dkavur\obj\Debug\vjezba2021.csprojAssemblyReference.cache
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\Vjezba4_Dkavur\obj\Debug\Vjezba4_Dkavur.Form1.resources
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\Vjezba4_Dkavur\obj\Debug\Vjezba4_Dkavur.Properties.Resources.resources
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\Vjezba4_Dkavur\obj\Debug\vjezba2021.csproj.GenerateResource.cache
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\Vjezba4_Dkavur\obj\Debug\vjezba2021.csproj.CoreCompileInputs.cache
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\Vjezba4_Dkavur\obj\Debug\vjezba2021.Form1.resources
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\vjezba2021\obj\Debug\vjezba2021.csprojAssemblyReference.cache
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\vjezba2021\obj\Debug\vjezba2021.Form1.resources
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\vjezba2021\obj\Debug\Vjezba4_Dkavur.Properties.Resources.resources
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\vjezba2021\obj\Debug\vjezba2021.csproj.GenerateResource.cache
+D:\Dropbox\PI 2010\2021\Zadaci\4\V4G11\V4G11\vjezba2021\obj\Debug\vjezba2021.csproj.CoreCompileInputs.cache

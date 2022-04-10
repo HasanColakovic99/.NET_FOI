@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\Osobe\obj\Debug\Osobe.uiOsobe.resources
+C:\Users\DELL\Desktop\Osobe\obj\Debug\Osobe.Properties.Resources.resources
+C:\Users\DELL\Desktop\Osobe\obj\Debug\Osobe.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Osobe\obj\Debug\Osobe.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Osobe\bin\Debug\Osobe.exe.config
+C:\Users\DELL\Desktop\Osobe\bin\Debug\Osobe.exe
+C:\Users\DELL\Desktop\Osobe\bin\Debug\Osobe.pdb
+C:\Users\DELL\Desktop\Osobe\obj\Debug\Osobe.exe
+C:\Users\DELL\Desktop\Osobe\obj\Debug\Osobe.pdb
+C:\Users\DELL\Desktop\Osobe\obj\Debug\Osobe.csproj.AssemblyReference.cache

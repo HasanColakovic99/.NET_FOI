@@ -1,0 +1,6 @@
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\MjenjacnicaLib\bin\Debug\MjenjacnicaLib.dll
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\MjenjacnicaLib\bin\Debug\MjenjacnicaLib.pdb
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\MjenjacnicaLib\obj\Debug\MjenjacnicaLib.csprojAssemblyReference.cache
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\MjenjacnicaLib\obj\Debug\MjenjacnicaLib.csproj.CoreCompileInputs.cache
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\MjenjacnicaLib\obj\Debug\MjenjacnicaLib.dll
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\MjenjacnicaLib\obj\Debug\MjenjacnicaLib.pdb

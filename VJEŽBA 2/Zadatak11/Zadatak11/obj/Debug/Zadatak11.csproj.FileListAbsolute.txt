@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak11\Zadatak11\bin\Debug\Zadatak11.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak11\Zadatak11\bin\Debug\Zadatak11.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak11\Zadatak11\bin\Debug\Zadatak11.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak11\Zadatak11\obj\Debug\Zadatak11.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak11\Zadatak11\obj\Debug\Zadatak11.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak11\Zadatak11\obj\Debug\Zadatak11.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 2\Zadatak11\Zadatak11\obj\Debug\Zadatak11.pdb

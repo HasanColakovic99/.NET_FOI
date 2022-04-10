@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak5\Zadatak5\bin\Debug\Zadatak5.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak5\Zadatak5\bin\Debug\Zadatak5.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak5\Zadatak5\bin\Debug\Zadatak5.pdb
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak5\Zadatak5\obj\Debug\Zadatak5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak5\Zadatak5\obj\Debug\Zadatak5.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak5\Zadatak5\obj\Debug\Zadatak5.pdb

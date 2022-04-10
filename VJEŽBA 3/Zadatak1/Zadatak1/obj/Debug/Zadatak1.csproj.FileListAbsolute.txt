@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.PopisUsera.resources
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\bin\Debug\AutentifikacijaLib.dll
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CopyComplete
+C:\Users\DELL\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.LogInForma.resources

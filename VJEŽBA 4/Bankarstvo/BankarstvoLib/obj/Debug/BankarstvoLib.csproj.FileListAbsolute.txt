@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\Bankarstvo\BankarstvoLib\obj\Debug\BankarstvoLib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Bankarstvo\BankarstvoLib\bin\Debug\BankarstvoLib.dll
+C:\Users\DELL\Desktop\Bankarstvo\BankarstvoLib\bin\Debug\BankarstvoLib.pdb
+C:\Users\DELL\Desktop\Bankarstvo\BankarstvoLib\obj\Debug\BankarstvoLib.dll
+C:\Users\DELL\Desktop\Bankarstvo\BankarstvoLib\obj\Debug\BankarstvoLib.pdb
+C:\Users\DELL\Desktop\Bankarstvo\BankarstvoLib\obj\Debug\BankarstvoLib.csproj.AssemblyReference.cache

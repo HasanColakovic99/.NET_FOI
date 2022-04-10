@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.FrmIsplata.resources
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.FrmPocetna.resources
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.FrmPrijava.resources
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.FrmProfilKorisnika.resources
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.FrmRacuni.resources
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.FrmTransakcije.resources
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.FrmUplata.resources
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.Properties.Resources.resources
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoGui\obj\Debug\BankarstvoGui.csproj.CoreCompileInputs.cache

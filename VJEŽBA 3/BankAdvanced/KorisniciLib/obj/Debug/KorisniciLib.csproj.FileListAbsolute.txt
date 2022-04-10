@@ -1,0 +1,11 @@
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\bin\Debug\KorisniciLib.dll
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\bin\Debug\KorisniciLib.pdb
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\bin\Debug\BankaLib.dll
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\bin\Debug\MjenjacnicaLib.dll
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\bin\Debug\BankaLib.pdb
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\bin\Debug\MjenjacnicaLib.pdb
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\obj\Debug\KorisniciLib.csprojAssemblyReference.cache
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\obj\Debug\KorisniciLib.csproj.CoreCompileInputs.cache
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\obj\Debug\KorisniciLib.csproj.CopyComplete
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\obj\Debug\KorisniciLib.dll
+C:\Users\mijac\Desktop\BankAdvanced_Origin\BankAdvanced\KorisniciLib\obj\Debug\KorisniciLib.pdb

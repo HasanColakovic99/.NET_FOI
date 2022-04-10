@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 11\Studenti\Studenti\obj\Debug\Studenti.Form1.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 11\Studenti\Studenti\obj\Debug\Studenti.Properties.Resources.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 11\Studenti\Studenti\obj\Debug\Studenti.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 11\Studenti\Studenti\obj\Debug\Studenti.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 11\Studenti\Studenti\bin\Debug\Studenti.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 11\Studenti\Studenti\bin\Debug\Studenti.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 11\Studenti\Studenti\bin\Debug\Studenti.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 11\Studenti\Studenti\obj\Debug\Studenti.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 11\Studenti\Studenti\obj\Debug\Studenti.pdb

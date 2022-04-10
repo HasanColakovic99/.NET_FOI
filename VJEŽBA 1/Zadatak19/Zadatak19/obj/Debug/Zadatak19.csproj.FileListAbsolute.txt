@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak19\Zadatak19\obj\Debug\Zadatak19.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak19\Zadatak19\obj\Debug\Zadatak19.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak19\Zadatak19\bin\Debug\Zadatak19.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak19\Zadatak19\bin\Debug\Zadatak19.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak19\Zadatak19\bin\Debug\Zadatak19.pdb
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak19\Zadatak19\obj\Debug\Zadatak19.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak19\Zadatak19\obj\Debug\Zadatak19.pdb

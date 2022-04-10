@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Zadatak 17\Zadatak 17\bin\Debug\Zadatak 17.exe.config
+C:\Users\DELL\source\repos\Zadatak 17\Zadatak 17\bin\Debug\Zadatak 17.exe
+C:\Users\DELL\source\repos\Zadatak 17\Zadatak 17\bin\Debug\Zadatak 17.pdb
+C:\Users\DELL\source\repos\Zadatak 17\Zadatak 17\obj\Debug\Zadatak 17.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Zadatak 17\Zadatak 17\obj\Debug\Zadatak 17.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Zadatak 17\Zadatak 17\obj\Debug\Zadatak 17.exe
+C:\Users\DELL\source\repos\Zadatak 17\Zadatak 17\obj\Debug\Zadatak 17.pdb

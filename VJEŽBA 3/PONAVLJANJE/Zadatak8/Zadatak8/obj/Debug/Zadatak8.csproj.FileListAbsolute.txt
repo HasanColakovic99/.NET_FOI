@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\bin\Debug\Zadatak8.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\bin\Debug\Zadatak8.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\bin\Debug\Zadatak8.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\bin\Debug\AutentifikacijaLib.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\obj\Debug\Zadatak8.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\obj\Debug\Zadatak8.Form1.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\obj\Debug\Zadatak8.Properties.Resources.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\obj\Debug\Zadatak8.User_profile.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\obj\Debug\Zadatak8.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\obj\Debug\Zadatak8.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\obj\Debug\Zadatak8.csproj.CopyComplete
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\obj\Debug\Zadatak8.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak8\Zadatak8\obj\Debug\Zadatak8.pdb

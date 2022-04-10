@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoLib\obj\Debug\BankarstvoLib.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Bankarstvo\Bankarstvo\BankarstvoLib\obj\Debug\BankarstvoLib.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 5\Zadatak1\Zadatak1\bin\Debug\Zadatak1.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 5\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 5\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 5\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 5\Zadatak1\Zadatak1\obj\Debug\Zadatak1.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 5\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb

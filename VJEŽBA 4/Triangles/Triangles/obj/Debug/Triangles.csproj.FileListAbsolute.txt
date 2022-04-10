@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Triangles\Triangles\obj\Debug\Triangles.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Triangles\Triangles\bin\Debug\Triangles.exe.config
+C:\Users\DELL\Desktop\Triangles\Triangles\bin\Debug\Triangles.exe
+C:\Users\DELL\Desktop\Triangles\Triangles\bin\Debug\Triangles.pdb
+C:\Users\DELL\Desktop\Triangles\Triangles\obj\Debug\Triangles.exe
+C:\Users\DELL\Desktop\Triangles\Triangles\obj\Debug\Triangles.pdb
+C:\Users\DELL\Desktop\Triangles\Triangles\obj\Debug\Triangles.csproj.AssemblyReference.cache

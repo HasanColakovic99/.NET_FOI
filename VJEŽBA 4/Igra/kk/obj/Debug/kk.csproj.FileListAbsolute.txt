@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\Igra\kk\obj\Debug\kk.Form1.resources
+C:\Users\DELL\Desktop\Igra\kk\obj\Debug\kk.Properties.Resources.resources
+C:\Users\DELL\Desktop\Igra\kk\obj\Debug\kk.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Igra\kk\obj\Debug\kk.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Igra\kk\bin\Debug\kk.exe.config
+C:\Users\DELL\Desktop\Igra\kk\bin\Debug\kk.exe
+C:\Users\DELL\Desktop\Igra\kk\bin\Debug\kk.pdb
+C:\Users\DELL\Desktop\Igra\kk\obj\Debug\kk.exe
+C:\Users\DELL\Desktop\Igra\kk\obj\Debug\kk.pdb
+C:\Users\DELL\Desktop\Igra\kk\obj\Debug\kk.csproj.AssemblyReference.cache

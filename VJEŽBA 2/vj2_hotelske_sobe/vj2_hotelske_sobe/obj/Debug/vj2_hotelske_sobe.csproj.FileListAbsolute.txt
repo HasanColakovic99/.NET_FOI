@@ -1,0 +1,8 @@
+C:\Users\farka\source\repos\vj2_hotelske_sobe\vj2_hotelske_sobe\bin\Debug\vj2_hotelske_sobe.exe.config
+C:\Users\farka\source\repos\vj2_hotelske_sobe\vj2_hotelske_sobe\bin\Debug\vj2_hotelske_sobe.exe
+C:\Users\farka\source\repos\vj2_hotelske_sobe\vj2_hotelske_sobe\bin\Debug\vj2_hotelske_sobe.pdb
+C:\Users\farka\source\repos\vj2_hotelske_sobe\vj2_hotelske_sobe\obj\Debug\vj2_hotelske_sobe.csproj.AssemblyReference.cache
+C:\Users\farka\source\repos\vj2_hotelske_sobe\vj2_hotelske_sobe\obj\Debug\vj2_hotelske_sobe.csproj.SuggestedBindingRedirects.cache
+C:\Users\farka\source\repos\vj2_hotelske_sobe\vj2_hotelske_sobe\obj\Debug\vj2_hotelske_sobe.csproj.CoreCompileInputs.cache
+C:\Users\farka\source\repos\vj2_hotelske_sobe\vj2_hotelske_sobe\obj\Debug\vj2_hotelske_sobe.exe
+C:\Users\farka\source\repos\vj2_hotelske_sobe\vj2_hotelske_sobe\obj\Debug\vj2_hotelske_sobe.pdb

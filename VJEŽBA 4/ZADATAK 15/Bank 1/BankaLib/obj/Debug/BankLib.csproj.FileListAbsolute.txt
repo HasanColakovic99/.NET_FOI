@@ -1,0 +1,11 @@
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankaLib\bin\Debug\BankaLib.dll
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankaLib\bin\Debug\BankaLib.pdb
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankaLib\obj\Debug\BankLib.csprojAssemblyReference.cache
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankaLib\obj\Debug\BankLib.csproj.CoreCompileInputs.cache
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankaLib\obj\Debug\BankaLib.dll
+C:\Users\Marko\OneDrive\NASTAVA\Programsko inženjerstvo 2020\Vježbe 4\ZADACI ZA PROVJERU\Bank_03\BankaLib\obj\Debug\BankaLib.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankaLib\obj\Debug\BankLib.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankaLib\bin\Debug\BankaLib.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankaLib\bin\Debug\BankaLib.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankaLib\obj\Debug\BankaLib.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA4\ZADATAK 15\Bank 1\BankaLib\obj\Debug\BankaLib.pdb

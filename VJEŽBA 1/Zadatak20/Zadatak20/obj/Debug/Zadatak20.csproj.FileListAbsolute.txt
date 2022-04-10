@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak20\Zadatak20\bin\Debug\Zadatak20.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak20\Zadatak20\bin\Debug\Zadatak20.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak20\Zadatak20\bin\Debug\Zadatak20.pdb
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak20\Zadatak20\obj\Debug\Zadatak20.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak20\Zadatak20\obj\Debug\Zadatak20.exe
+C:\Users\DELL\Desktop\C# ZADACI\Zadatak20\Zadatak20\obj\Debug\Zadatak20.pdb

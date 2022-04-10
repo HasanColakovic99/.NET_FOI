@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\bin\Debug\Zadatak10.exe.config
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\bin\Debug\Zadatak10.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\bin\Debug\Zadatak10.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\bin\Debug\ProvedbaIspitaLib.dll
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\obj\Debug\Zadatak10.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\obj\Debug\Zadatak10.Form1.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\obj\Debug\Zadatak10.Properties.Resources.resources
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\obj\Debug\Zadatak10.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\obj\Debug\Zadatak10.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\obj\Debug\Zadatak10.csproj.CopyComplete
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\obj\Debug\Zadatak10.exe
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\obj\Debug\Zadatak10.pdb
+C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\PONAVLJANJE\Zadatak10\Zadatak10\obj\Debug\Zadatak10.Rezultati_ispita.resources
