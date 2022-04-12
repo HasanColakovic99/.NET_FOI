@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\bin\Debug\FiltriranjeTransakcija.exe.config
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\bin\Debug\FiltriranjeTransakcija.exe
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\bin\Debug\FiltriranjeTransakcija.pdb
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\bin\Debug\BankaLib.dll
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.FormTransakcije.resources
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.exe
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.pdb
+C:\Users\Korisnik\source\repos\3. vježba\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.FormDetalji.resources

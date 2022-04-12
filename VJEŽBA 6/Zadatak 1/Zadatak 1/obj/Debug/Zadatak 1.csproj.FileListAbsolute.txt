@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\bin\Debug\Zadatak 1.exe.config
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\bin\Debug\Zadatak 1.exe
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\bin\Debug\Zadatak 1.pdb
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\obj\Debug\Zadatak_1.Form1.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\obj\Debug\Zadatak_1.Properties.Resources.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.exe
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Zadatak 1\Zadatak 1\obj\Debug\Zadatak 1.pdb

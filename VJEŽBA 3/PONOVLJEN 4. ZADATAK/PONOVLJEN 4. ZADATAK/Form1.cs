@@ -64,5 +64,10 @@ namespace PONOVLJEN_4.ZADATAK
             Detalji detalji = new Detalji(comboBox1.SelectedItem as Racun);
             detalji.ShowDialog();
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

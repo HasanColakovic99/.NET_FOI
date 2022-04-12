@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\bin\Debug\SkladisteForm.exe.config
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\bin\Debug\SkladisteForm.exe
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\bin\Debug\SkladisteForm.pdb
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\bin\Debug\SkladisteData.dll
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\bin\Debug\SkladisteData.pdb
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\obj\Debug\SkladisteForm.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\obj\Debug\SkladisteForm.Properties.Resources.resources
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\obj\Debug\SkladisteForm.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\obj\Debug\SkladisteForm.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\obj\Debug\SkladisteForm.csproj.CopyComplete
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\obj\Debug\SkladisteForm.exe
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\obj\Debug\SkladisteForm.pdb
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteForm\obj\Debug\SkladisteForm.Form1.resources

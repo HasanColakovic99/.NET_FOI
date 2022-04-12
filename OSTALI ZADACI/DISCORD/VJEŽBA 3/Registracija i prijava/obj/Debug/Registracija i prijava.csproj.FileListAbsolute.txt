@@ -1,0 +1,14 @@
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\bin\Debug\Registracija i prijava.exe.config
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\bin\Debug\Registracija i prijava.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\bin\Debug\Registracija i prijava.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\bin\Debug\AutentifikacijaLib.dll
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija i prijava.csproj.AssemblyReference.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija i prijava.csproj.SuggestedBindingRedirects.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija_i_prijava.FormGlavna.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija_i_prijava.FormRegister.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija_i_prijava.Properties.Resources.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija i prijava.csproj.GenerateResource.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija i prijava.csproj.CoreCompileInputs.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija i prijava.csproj.CopyComplete
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija i prijava.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Registracija i prijava\obj\Debug\Registracija i prijava.pdb

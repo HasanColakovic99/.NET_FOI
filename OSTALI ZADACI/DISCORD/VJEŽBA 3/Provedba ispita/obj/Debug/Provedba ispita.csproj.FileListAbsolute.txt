@@ -1,0 +1,14 @@
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\bin\Debug\Provedba ispita.exe.config
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\bin\Debug\Provedba ispita.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\bin\Debug\Provedba ispita.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\bin\Debug\ProvedbaIspitaLib.dll
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba ispita.csproj.AssemblyReference.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba ispita.csproj.SuggestedBindingRedirects.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba_ispita.Properties.Resources.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba ispita.csproj.GenerateResource.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba ispita.csproj.CoreCompileInputs.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba ispita.csproj.CopyComplete
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba ispita.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba ispita.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba_ispita.FormGlavna.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Provedba ispita\obj\Debug\Provedba_ispita.FormRezultati.resources

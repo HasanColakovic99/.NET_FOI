@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\bin\Debug\PrijavaPrikazKorisnickogProfila.exe.config
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\bin\Debug\PrijavaPrikazKorisnickogProfila.exe
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\bin\Debug\PrijavaPrikazKorisnickogProfila.pdb
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\bin\Debug\AutentifikacijaLib.dll
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\obj\Debug\PrijavaPrikazKorisnickogProfila.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\obj\Debug\PrijavaPrikazKorisnickogProfila.LogIn.resources
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\obj\Debug\PrijavaPrikazKorisnickogProfila.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\obj\Debug\PrijavaPrikazKorisnickogProfila.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\obj\Debug\PrijavaPrikazKorisnickogProfila.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\obj\Debug\PrijavaPrikazKorisnickogProfila.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\obj\Debug\PrijavaPrikazKorisnickogProfila.exe
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\obj\Debug\PrijavaPrikazKorisnickogProfila.pdb
+C:\Users\Korisnik\source\repos\3. vježba\PrijavaPrikazKorisnickogProfila\obj\Debug\PrijavaPrikazKorisnickogProfila.FormUserProfile.resources

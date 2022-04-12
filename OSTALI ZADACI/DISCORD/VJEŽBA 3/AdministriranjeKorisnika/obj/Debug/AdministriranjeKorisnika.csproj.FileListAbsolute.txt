@@ -1,0 +1,15 @@
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\bin\Debug\AdministriranjeKorisnika.exe.config
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\bin\Debug\AdministriranjeKorisnika.exe
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\bin\Debug\AdministriranjeKorisnika.pdb
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\bin\Debug\AutentifikacijaLib.dll
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.FormLogin.resources
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.exe
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.pdb
+C:\Users\Korisnik\source\repos\3. vježba\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.FormUserList.resources
+C:\Users\DELL\Desktop\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.exe
+C:\Users\DELL\Desktop\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.pdb

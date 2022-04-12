@@ -1,0 +1,15 @@
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\bin\Debug\Vozila u voznom parku.exe.config
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\bin\Debug\Vozila u voznom parku.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\bin\Debug\Vozila u voznom parku.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\bin\Debug\Vozila.dll
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila u voznom parku.csproj.AssemblyReference.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila u voznom parku.csproj.SuggestedBindingRedirects.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila_u_voznom_parku.FormGlavna.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila_u_voznom_parku.Properties.Resources.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila u voznom parku.csproj.GenerateResource.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila u voznom parku.csproj.CoreCompileInputs.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila u voznom parku.csproj.CopyComplete
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila u voznom parku.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila u voznom parku.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila_u_voznom_parku.FormDodavanjeVozila.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Vozila u voznom parku\obj\Debug\Vozila_u_voznom_parku.FormPromijeni.resources

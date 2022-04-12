@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\Timovi\TomoviData\bin\Debug\TomoviData.dll
+C:\Users\DELL\Desktop\Timovi\TomoviData\bin\Debug\TomoviData.pdb
+C:\Users\DELL\Desktop\Timovi\TomoviData\obj\Debug\TomoviData.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Timovi\TomoviData\obj\Debug\TomoviData.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Timovi\TomoviData\obj\Debug\TomoviData.dll
+C:\Users\DELL\Desktop\Timovi\TomoviData\obj\Debug\TomoviData.pdb

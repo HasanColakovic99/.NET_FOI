@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkladisteForm", "SkladisteForm\SkladisteForm.csproj", "{14F57673-6647-4AC8-9B09-3147D59FB999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkladisteData", "SkladisteData\SkladisteData.csproj", "{304AA9F5-DD00-4068-A1F2-48D1A2784E52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F57673-6647-4AC8-9B09-3147D59FB999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F57673-6647-4AC8-9B09-3147D59FB999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F57673-6647-4AC8-9B09-3147D59FB999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F57673-6647-4AC8-9B09-3147D59FB999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304AA9F5-DD00-4068-A1F2-48D1A2784E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304AA9F5-DD00-4068-A1F2-48D1A2784E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304AA9F5-DD00-4068-A1F2-48D1A2784E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304AA9F5-DD00-4068-A1F2-48D1A2784E52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFC009F4-3DA7-4B22-95F5-29147B50A8B2}
+	EndGlobalSection
+EndGlobal

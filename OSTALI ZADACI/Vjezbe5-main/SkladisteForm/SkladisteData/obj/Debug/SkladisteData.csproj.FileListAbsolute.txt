@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteData\bin\Debug\SkladisteData.dll
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteData\bin\Debug\SkladisteData.pdb
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteData\obj\Debug\SkladisteData.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteData\obj\Debug\SkladisteData.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteData\obj\Debug\SkladisteData.dll
+C:\Users\DELL\Desktop\SkladisteForm\SkladisteData\obj\Debug\SkladisteData.pdb

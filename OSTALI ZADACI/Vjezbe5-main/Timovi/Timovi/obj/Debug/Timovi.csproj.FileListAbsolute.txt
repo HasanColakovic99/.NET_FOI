@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\Timovi\Timovi\bin\Debug\Timovi.exe.config
+C:\Users\DELL\Desktop\Timovi\Timovi\bin\Debug\Timovi.exe
+C:\Users\DELL\Desktop\Timovi\Timovi\bin\Debug\Timovi.pdb
+C:\Users\DELL\Desktop\Timovi\Timovi\bin\Debug\TomoviData.dll
+C:\Users\DELL\Desktop\Timovi\Timovi\bin\Debug\TomoviData.pdb
+C:\Users\DELL\Desktop\Timovi\Timovi\obj\Debug\Timovi.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Timovi\Timovi\obj\Debug\Timovi.Form1.resources
+C:\Users\DELL\Desktop\Timovi\Timovi\obj\Debug\Timovi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Timovi\Timovi\obj\Debug\Timovi.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Timovi\Timovi\obj\Debug\Timovi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Timovi\Timovi\obj\Debug\Timovi.csproj.CopyComplete
+C:\Users\DELL\Desktop\Timovi\Timovi\obj\Debug\Timovi.exe
+C:\Users\DELL\Desktop\Timovi\Timovi\obj\Debug\Timovi.pdb

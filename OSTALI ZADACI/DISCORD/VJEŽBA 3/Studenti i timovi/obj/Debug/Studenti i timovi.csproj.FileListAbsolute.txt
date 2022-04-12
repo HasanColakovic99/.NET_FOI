@@ -1,0 +1,14 @@
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\bin\Debug\Studenti i timovi.exe.config
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\bin\Debug\Studenti i timovi.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\bin\Debug\Studenti i timovi.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\bin\Debug\StudentiTimoviLib.dll
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti i timovi.csproj.AssemblyReference.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti i timovi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti_i_timovi.FormGlavna.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti_i_timovi.Properties.Resources.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti i timovi.csproj.GenerateResource.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti i timovi.csproj.CoreCompileInputs.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti i timovi.csproj.CopyComplete
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti i timovi.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti i timovi.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\3. vjezba\rjesenja\Vjezba3\Studenti i timovi\obj\Debug\Studenti_i_timovi.FormNoviStudent.resources
