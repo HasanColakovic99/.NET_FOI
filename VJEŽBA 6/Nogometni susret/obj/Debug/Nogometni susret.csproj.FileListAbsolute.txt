@@ -1,0 +1,11 @@
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\bin\Debug\Nogometni susret.exe.config
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\bin\Debug\Nogometni susret.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\bin\Debug\Nogometni susret.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\obj\Debug\Nogometni susret.csproj.AssemblyReference.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\obj\Debug\Nogometni susret.csproj.SuggestedBindingRedirects.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\obj\Debug\Nogometni_susret.FormGlavna.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\obj\Debug\Nogometni_susret.Properties.Resources.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\obj\Debug\Nogometni susret.csproj.GenerateResource.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\obj\Debug\Nogometni susret.csproj.CoreCompileInputs.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\obj\Debug\Nogometni susret.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\Nogometni susret\obj\Debug\Nogometni susret.pdb

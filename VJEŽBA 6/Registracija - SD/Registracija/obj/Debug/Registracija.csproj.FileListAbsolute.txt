@@ -1,0 +1,20 @@
+C:\Users\DELL\Desktop\Registracija\Registracija\bin\Debug\Registracija.exe.config
+C:\Users\DELL\Desktop\Registracija\Registracija\bin\Debug\Registracija.exe
+C:\Users\DELL\Desktop\Registracija\Registracija\bin\Debug\Registracija.pdb
+C:\Users\DELL\Desktop\Registracija\Registracija\obj\Debug\Registracija.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Registracija\Registracija\obj\Debug\Registracija.Form1.resources
+C:\Users\DELL\Desktop\Registracija\Registracija\obj\Debug\Registracija.Properties.Resources.resources
+C:\Users\DELL\Desktop\Registracija\Registracija\obj\Debug\Registracija.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Registracija\Registracija\obj\Debug\Registracija.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Registracija\Registracija\obj\Debug\Registracija.exe
+C:\Users\DELL\Desktop\Registracija\Registracija\obj\Debug\Registracija.pdb
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\bin\Debug\Registracija.exe.config
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\bin\Debug\Registracija.exe
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\bin\Debug\Registracija.pdb
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\obj\Debug\Registracija.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\obj\Debug\Registracija.Form1.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\obj\Debug\Registracija.Properties.Resources.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\obj\Debug\Registracija.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\obj\Debug\Registracija.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\obj\Debug\Registracija.exe
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 6\Registracija - SD\Registracija\obj\Debug\Registracija.pdb

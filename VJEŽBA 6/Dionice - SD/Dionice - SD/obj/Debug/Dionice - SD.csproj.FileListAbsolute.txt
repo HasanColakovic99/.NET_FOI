@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\bin\Debug\Dionice - SD.exe.config
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\bin\Debug\Dionice - SD.exe
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\bin\Debug\Dionice - SD.pdb
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\bin\Debug\StocksLib.dll
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\obj\Debug\Dionice - SD.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\obj\Debug\Dionice___SD.Form1.resources
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\obj\Debug\Dionice___SD.Properties.Resources.resources
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\obj\Debug\Dionice - SD.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\obj\Debug\Dionice - SD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\obj\Debug\Dionice - SD.csproj.CopyComplete
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\obj\Debug\Dionice - SD.exe
+C:\Users\DELL\Desktop\Dionice - SD\Dionice - SD\obj\Debug\Dionice - SD.pdb

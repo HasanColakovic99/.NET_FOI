@@ -1,0 +1,24 @@
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\bin\Debug\10 Glasanje.exe.config
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\bin\Debug\10 Glasanje.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\bin\Debug\10 Glasanje.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\obj\Debug\10 Glasanje.csproj.AssemblyReference.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\obj\Debug\10 Glasanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\obj\Debug\_10_Glasanje.Form1.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\obj\Debug\_10_Glasanje.Properties.Resources.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\obj\Debug\10 Glasanje.csproj.GenerateResource.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\obj\Debug\10 Glasanje.csproj.CoreCompileInputs.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\obj\Debug\10 Glasanje.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\obj\Debug\10 Glasanje.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\bin\Debug\BiraciLib.dll
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\10 Glasanje\obj\Debug\10 Glasanje.csproj.CopyComplete
+C:\Users\DELL\Desktop\10 Glasanje\bin\Debug\10 Glasanje.exe.config
+C:\Users\DELL\Desktop\10 Glasanje\bin\Debug\10 Glasanje.exe
+C:\Users\DELL\Desktop\10 Glasanje\bin\Debug\10 Glasanje.pdb
+C:\Users\DELL\Desktop\10 Glasanje\obj\Debug\10 Glasanje.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\10 Glasanje\obj\Debug\_10_Glasanje.Form1.resources
+C:\Users\DELL\Desktop\10 Glasanje\obj\Debug\_10_Glasanje.Properties.Resources.resources
+C:\Users\DELL\Desktop\10 Glasanje\obj\Debug\10 Glasanje.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\10 Glasanje\obj\Debug\10 Glasanje.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\10 Glasanje\obj\Debug\10 Glasanje.csproj.CopyComplete
+C:\Users\DELL\Desktop\10 Glasanje\obj\Debug\10 Glasanje.exe
+C:\Users\DELL\Desktop\10 Glasanje\obj\Debug\10 Glasanje.pdb

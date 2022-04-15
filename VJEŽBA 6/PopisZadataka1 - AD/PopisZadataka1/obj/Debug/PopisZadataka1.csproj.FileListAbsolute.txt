@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\bin\Debug\PopisZadataka1.exe.config
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\bin\Debug\PopisZadataka1.exe
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\bin\Debug\PopisZadataka1.pdb
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\obj\Debug\PopisZadataka1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\obj\Debug\PopisZadataka1.Form1.resources
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\obj\Debug\PopisZadataka1.Properties.Resources.resources
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\obj\Debug\PopisZadataka1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\obj\Debug\PopisZadataka1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\obj\Debug\PopisZadataka1.exe
+C:\Users\DELL\Desktop\PopisZadataka1\PopisZadataka1\obj\Debug\PopisZadataka1.pdb

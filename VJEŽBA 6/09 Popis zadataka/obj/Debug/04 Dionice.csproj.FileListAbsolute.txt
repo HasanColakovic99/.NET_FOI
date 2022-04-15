@@ -1,0 +1,13 @@
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\bin\Debug\09 Popis zadataka.exe.config
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\bin\Debug\09 Popis zadataka.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\bin\Debug\09 Popis zadataka.pdb
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\bin\Debug\StocksLib.dll
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\obj\Debug\04 Dionice.csproj.AssemblyReference.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\obj\Debug\04 Dionice.csproj.SuggestedBindingRedirects.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\obj\Debug\_09_Popis_zadataka.Form1.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\obj\Debug\_09_Popis_zadataka.Properties.Resources.resources
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\obj\Debug\04 Dionice.csproj.GenerateResource.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\obj\Debug\04 Dionice.csproj.CoreCompileInputs.cache
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\obj\Debug\04 Dionice.csproj.CopyComplete
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\obj\Debug\09 Popis zadataka.exe
+C:\Users\nzago\OneDrive\Radna površina\_upitnik\faks\6. semestar IS\PI\Vjezbe\6. vjezba\rjesenja\rjesenjaOd04\09 Popis zadataka\obj\Debug\09 Popis zadataka.pdb
