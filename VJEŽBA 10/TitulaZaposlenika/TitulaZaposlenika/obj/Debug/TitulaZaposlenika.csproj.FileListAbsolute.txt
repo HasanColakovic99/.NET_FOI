@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\bin\Debug\TitulaZaposlenika.exe.config
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\bin\Debug\TitulaZaposlenika.exe
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\bin\Debug\TitulaZaposlenika.pdb
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\obj\Debug\TitulaZaposlenika.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\obj\Debug\TitulaZaposlenika.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\obj\Debug\TitulaZaposlenika.Form1.resources
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\obj\Debug\TitulaZaposlenika.Properties.Resources.resources
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\obj\Debug\TitulaZaposlenika.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\obj\Debug\TitulaZaposlenika.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\obj\Debug\TitulaZaposlenika.csproj.CopyComplete
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\obj\Debug\TitulaZaposlenika.exe
+C:\Users\DELL\Desktop\TitulaZaposlenika\TitulaZaposlenika\obj\Debug\TitulaZaposlenika.pdb

@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\obj\Debug\STATE_PrepaidKartica.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\obj\Debug\STATE_PrepaidKartica.PrepaidForm.resources
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\obj\Debug\STATE_PrepaidKartica.Properties.Resources.resources
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\obj\Debug\STATE_PrepaidKartica.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\obj\Debug\STATE_PrepaidKartica.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\bin\Debug\STATE_PrepaidKartica.exe.config
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\bin\Debug\STATE_PrepaidKartica.exe
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\bin\Debug\STATE_PrepaidKartica.pdb
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\obj\Debug\STATE_PrepaidKartica.exe
+C:\Users\DELL\Desktop\PREPAID KARTICA\STATE_PrepaidKartica\STATE_PrepaidKartica\obj\Debug\STATE_PrepaidKartica.pdb

@@ -98,5 +98,10 @@ namespace Zadatak14
             noviStudent.ShowDialog();
             Osvjezi();
         }
+
+        private void prvaLista_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -11,3 +11,15 @@ C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak1
 C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.exe
 C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.pdb
 C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.Novi_student.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\bin\Debug\Zadatak14.exe.config
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\bin\Debug\Zadatak14.exe
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\bin\Debug\Zadatak14.pdb
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.Form1.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.Novi_student.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.Properties.Resources.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.csproj.CopyComplete
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.exe
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak14\Zadatak14\obj\Debug\Zadatak14.pdb

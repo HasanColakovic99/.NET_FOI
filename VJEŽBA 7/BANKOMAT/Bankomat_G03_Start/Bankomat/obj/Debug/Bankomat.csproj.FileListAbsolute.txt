@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\bin\Debug\Bankomat.exe.config
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\bin\Debug\Bankomat.exe
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\obj\Debug\Bankomat.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\obj\Debug\Bankomat.frmBankomat.resources
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\obj\Debug\Bankomat.Properties.Resources.resources
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\obj\Debug\Bankomat.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\obj\Debug\Bankomat.exe
+C:\Users\DELL\Desktop\BANKOMAT\Bankomat_G03_Start\Bankomat\obj\Debug\Bankomat.pdb

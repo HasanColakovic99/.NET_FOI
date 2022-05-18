@@ -1,0 +1,20 @@
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\bin\Debug\STATE_Oven.exe.config
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\bin\Debug\STATE_Oven.exe
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\bin\Debug\STATE_Oven.pdb
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.AssemblyReference.cache
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.FrmPecnica.resources
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.Properties.Resources.resources
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.GenerateResource.cache
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.CoreCompileInputs.cache
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.exe
+D:\6. semestar\PI_\PI moje\vjezba 7\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.pdb
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\bin\Debug\STATE_Oven.exe.config
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\bin\Debug\STATE_Oven.exe
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\bin\Debug\STATE_Oven.pdb
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.FrmPecnica.resources
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.Properties.Resources.resources
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.exe
+C:\Users\DELL\Desktop\STATE_Oven\STATE_Oven\obj\Debug\STATE_Oven.pdb

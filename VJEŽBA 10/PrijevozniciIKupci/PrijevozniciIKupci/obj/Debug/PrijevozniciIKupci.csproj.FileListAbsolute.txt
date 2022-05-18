@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\bin\Debug\PrijevozniciIKupci.exe.config
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\bin\Debug\PrijevozniciIKupci.exe
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\bin\Debug\PrijevozniciIKupci.pdb
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\obj\Debug\PrijevozniciIKupci.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\obj\Debug\PrijevozniciIKupci.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\obj\Debug\PrijevozniciIKupci.Form1.resources
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\obj\Debug\PrijevozniciIKupci.Properties.Resources.resources
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\obj\Debug\PrijevozniciIKupci.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\obj\Debug\PrijevozniciIKupci.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\obj\Debug\PrijevozniciIKupci.csproj.CopyComplete
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\obj\Debug\PrijevozniciIKupci.exe
+C:\Users\DELL\Desktop\PrijevozniciIKupci\PrijevozniciIKupci\obj\Debug\PrijevozniciIKupci.pdb

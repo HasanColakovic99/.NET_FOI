@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\MinIMax\MinIMax\bin\Debug\MinIMax.exe.config
+C:\Users\DELL\Desktop\MinIMax\MinIMax\bin\Debug\MinIMax.exe
+C:\Users\DELL\Desktop\MinIMax\MinIMax\bin\Debug\MinIMax.pdb
+C:\Users\DELL\Desktop\MinIMax\MinIMax\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\MinIMax\MinIMax\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\MinIMax\MinIMax\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\MinIMax\MinIMax\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\MinIMax\MinIMax\obj\Debug\MinIMax.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\MinIMax\MinIMax\obj\Debug\MinIMax.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\MinIMax\MinIMax\obj\Debug\MinIMax.Form1.resources
+C:\Users\DELL\Desktop\MinIMax\MinIMax\obj\Debug\MinIMax.Properties.Resources.resources
+C:\Users\DELL\Desktop\MinIMax\MinIMax\obj\Debug\MinIMax.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\MinIMax\MinIMax\obj\Debug\MinIMax.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\MinIMax\MinIMax\obj\Debug\MinIMax.csproj.CopyComplete
+C:\Users\DELL\Desktop\MinIMax\MinIMax\obj\Debug\MinIMax.exe
+C:\Users\DELL\Desktop\MinIMax\MinIMax\obj\Debug\MinIMax.pdb

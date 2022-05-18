@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\bin\Debug\ZemljaDobavljača.exe.config
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\bin\Debug\ZemljaDobavljača.exe
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\bin\Debug\ZemljaDobavljača.pdb
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\obj\Debug\ZemljaDobavljača.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\obj\Debug\ZemljaDobavljača.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\obj\Debug\ZemljaDobavljača.Form1.resources
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\obj\Debug\ZemljaDobavljača.Properties.Resources.resources
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\obj\Debug\ZemljaDobavljača.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\obj\Debug\ZemljaDobavljača.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\obj\Debug\ZemljaDobavljača.csproj.CopyComplete
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\obj\Debug\ZemljaDobavljača.exe
+C:\Users\DELL\Desktop\ZemljaDobavljača\ZemljaDobavljača\obj\Debug\ZemljaDobavljača.pdb

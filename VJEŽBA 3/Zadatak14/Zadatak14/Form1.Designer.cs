@@ -45,6 +45,7 @@ namespace Zadatak14
             this.prvaLista.Name = "prvaLista";
             this.prvaLista.Size = new System.Drawing.Size(271, 388);
             this.prvaLista.TabIndex = 0;
+            this.prvaLista.SelectedIndexChanged += new System.EventHandler(this.prvaLista_SelectedIndexChanged);
             // 
             // drugaLista
             // 

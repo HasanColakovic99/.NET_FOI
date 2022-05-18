@@ -11,3 +11,15 @@ C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.c
 C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.exe
 C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.pdb
 C:\Users\DELL\Desktop\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.Kupi_kartu.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\bin\Debug\Zadatak3.exe.config
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\bin\Debug\Zadatak3.exe
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\bin\Debug\Zadatak3.pdb
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.Form1.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.Kupi_kartu.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.Properties.Resources.resources
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.csproj.CopyComplete
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.exe
+C:\Users\DELL\Desktop\6. SEMESTAR\PI\C# ZADACI\VJEŽBA 3\Zadatak3\Zadatak3\obj\Debug\Zadatak3.pdb
