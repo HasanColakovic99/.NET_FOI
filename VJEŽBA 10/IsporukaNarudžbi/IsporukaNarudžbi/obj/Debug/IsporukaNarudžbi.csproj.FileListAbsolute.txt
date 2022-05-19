@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\bin\Debug\IsporukaNarudžbi.exe.config
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\bin\Debug\IsporukaNarudžbi.exe
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\bin\Debug\IsporukaNarudžbi.pdb
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\obj\Debug\IsporukaNarudžbi.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\obj\Debug\IsporukaNarudžbi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\obj\Debug\IsporukaNarudžbi.OrdersINFO.resources
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\obj\Debug\IsporukaNarudžbi.Properties.Resources.resources
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\obj\Debug\IsporukaNarudžbi.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\obj\Debug\IsporukaNarudžbi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\obj\Debug\IsporukaNarudžbi.csproj.CopyComplete
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\obj\Debug\IsporukaNarudžbi.exe
+C:\Users\DELL\Desktop\IsporukaNarudžbi\IsporukaNarudžbi\obj\Debug\IsporukaNarudžbi.pdb

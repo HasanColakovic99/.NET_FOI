@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Tomašev\Tomašev\bin\Debug\Tomašev.exe.config
+C:\Users\DELL\Desktop\Tomašev\Tomašev\bin\Debug\Tomašev.exe
+C:\Users\DELL\Desktop\Tomašev\Tomašev\bin\Debug\Tomašev.pdb
+C:\Users\DELL\Desktop\Tomašev\Tomašev\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Tomašev\Tomašev\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Tomašev\Tomašev\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Tomašev\Tomašev\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Tomašev\Tomašev\obj\Debug\Tomašev.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Tomašev\Tomašev\obj\Debug\Tomašev.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\Tomašev\Tomašev\obj\Debug\Tomašev.Form1.resources
+C:\Users\DELL\Desktop\Tomašev\Tomašev\obj\Debug\Tomašev.Properties.Resources.resources
+C:\Users\DELL\Desktop\Tomašev\Tomašev\obj\Debug\Tomašev.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Tomašev\Tomašev\obj\Debug\Tomašev.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Tomašev\Tomašev\obj\Debug\Tomašev.csproj.CopyComplete
+C:\Users\DELL\Desktop\Tomašev\Tomašev\obj\Debug\Tomašev.exe
+C:\Users\DELL\Desktop\Tomašev\Tomašev\obj\Debug\Tomašev.pdb
