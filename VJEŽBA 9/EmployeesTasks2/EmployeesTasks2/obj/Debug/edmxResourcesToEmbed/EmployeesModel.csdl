@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EF_DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Activity">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Scores" Relationship="Self.FK_Scores_Activities" FromRole="Activities" ToRole="Scores" />
+  </EntityType>
+  <EntityType Name="Assignment">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Student" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Points" Type="Int32" Nullable="false" />
+    <Property Name="IdAssignmentStatuses" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="AssignmentStatus" Relationship="Self.FK_Assignments_AssignmentStatus" FromRole="Assignments" ToRole="AssignmentStatuses" />
+  </EntityType>
+  <EntityType Name="AssignmentStatus">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Assignments" Relationship="Self.FK_Assignments_AssignmentStatus" FromRole="AssignmentStatuses" ToRole="Assignments" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NumOfPages" Type="Int32" Nullable="false" />
+    <Property Name="MainAuthor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdGenres" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Genre" Relationship="Self.FK_Books_Genres" FromRole="Books" ToRole="Genres" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Products" Relationship="Self.FK_Products_Categories" FromRole="Categories" ToRole="Products" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Tasks" Relationship="Self.FK_Tasks_Tasks" FromRole="Employees" ToRole="Tasks" />
+  </EntityType>
+  <EntityType Name="Genre">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Books" Relationship="Self.FK_Books_Genres" FromRole="Genres" ToRole="Books" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <Property Name="UnitPrice" Type="Double" Nullable="false" />
+    <Property Name="CategoryId" Type="Int32" />
+    <NavigationProperty Name="Category" Relationship="Self.FK_Products_Categories" FromRole="Products" ToRole="Categories" />
+  </EntityType>
+  <EntityType Name="Score">
+    <Key>
+      <PropertyRef Name="StudentId" />
+      <PropertyRef Name="ActivityId" />
+    </Key>
+    <Property Name="StudentId" Type="Int32" Nullable="false" />
+    <Property Name="ActivityId" Type="Int32" Nullable="false" />
+    <Property Name="Score1" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Activity" Relationship="Self.FK_Scores_Activities" FromRole="Scores" ToRole="Activities" />
+    <NavigationProperty Name="Student" Relationship="Self.FK_Scores_Students" FromRole="Scores" ToRole="Students" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Scores" Relationship="Self.FK_Scores_Students" FromRole="Students" ToRole="Scores" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Description" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Priority" Type="Int32" Nullable="false" />
+    <Property Name="Completed" Type="Boolean" Nullable="false" />
+    <Property Name="EmployeeId" Type="Int32" />
+    <NavigationProperty Name="Employee" Relationship="Self.FK_Tasks_Tasks" FromRole="Tasks" ToRole="Employees" />
+  </EntityType>
+  <Association Name="FK_Scores_Activities">
+    <End Role="Activities" Type="Self.Activity" Multiplicity="1" />
+    <End Role="Scores" Type="Self.Score" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Activities">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Scores">
+        <PropertyRef Name="ActivityId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Assignments_AssignmentStatus">
+    <End Role="AssignmentStatuses" Type="Self.AssignmentStatus" Multiplicity="1" />
+    <End Role="Assignments" Type="Self.Assignment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AssignmentStatuses">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Assignments">
+        <PropertyRef Name="IdAssignmentStatuses" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Books_Genres">
+    <End Role="Genres" Type="Self.Genre" Multiplicity="1" />
+    <End Role="Books" Type="Self.Book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Genres">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Books">
+        <PropertyRef Name="IdGenres" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Products_Categories">
+    <End Role="Categories" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="Products" Type="Self.Product" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Categories">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Products">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tasks_Tasks">
+    <End Role="Employees" Type="Self.Employee" Multiplicity="0..1" />
+    <End Role="Tasks" Type="Self.Task" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tasks">
+        <PropertyRef Name="EmployeeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Scores_Students">
+    <End Role="Students" Type="Self.Student" Multiplicity="1" />
+    <End Role="Scores" Type="Self.Score" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Scores">
+        <PropertyRef Name="StudentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EF_DBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Activities" EntityType="Self.Activity" />
+    <EntitySet Name="Assignments" EntityType="Self.Assignment" />
+    <EntitySet Name="AssignmentStatuses" EntityType="Self.AssignmentStatus" />
+    <EntitySet Name="Books" EntityType="Self.Book" />
+    <EntitySet Name="Categories" EntityType="Self.Category" />
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="Genres" EntityType="Self.Genre" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <EntitySet Name="Scores" EntityType="Self.Score" />
+    <EntitySet Name="Students" EntityType="Self.Student" />
+    <EntitySet Name="Tasks" EntityType="Self.Task" />
+    <AssociationSet Name="FK_Scores_Activities" Association="Self.FK_Scores_Activities">
+      <End Role="Activities" EntitySet="Activities" />
+      <End Role="Scores" EntitySet="Scores" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Assignments_AssignmentStatus" Association="Self.FK_Assignments_AssignmentStatus">
+      <End Role="AssignmentStatuses" EntitySet="AssignmentStatuses" />
+      <End Role="Assignments" EntitySet="Assignments" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Books_Genres" Association="Self.FK_Books_Genres">
+      <End Role="Genres" EntitySet="Genres" />
+      <End Role="Books" EntitySet="Books" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Products_Categories" Association="Self.FK_Products_Categories">
+      <End Role="Categories" EntitySet="Categories" />
+      <End Role="Products" EntitySet="Products" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tasks_Tasks" Association="Self.FK_Tasks_Tasks">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="Tasks" EntitySet="Tasks" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Scores_Students" Association="Self.FK_Scores_Students">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="Scores" EntitySet="Scores" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

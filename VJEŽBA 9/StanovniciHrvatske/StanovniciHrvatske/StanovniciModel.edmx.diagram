@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d1ad01a28f504701b9248ffa28894bd9" Name="Diagram1">
+        <EntityTypeShape EntityType="LabsModel.Adrese" Width="1.5" PointX="10" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Book" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Car" Width="1.5" PointX="2.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Currency" Width="1.5" PointX="4.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.InventurniZapisi" Width="1.5" PointX="9.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Korisnici" Width="1.5" PointX="8" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Mjesta" Width="1.5" PointX="7.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Odjel" Width="1.5" PointX="5.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Product" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Reprezentacije" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Stanovnici" Width="1.5" PointX="7.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.sysdiagram" Width="1.5" PointX="0.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Task" Width="1.5" PointX="2.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Tecajevi" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.tm_Tasks" Width="1.5" PointX="4.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Uloge" Width="1.5" PointX="5.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Utakmouse" Width="1.5" PointX="3" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="LabsModel.Valute" Width="1.5" PointX="0.75" PointY="0.875" IsExpanded="true" />
+        <AssociationConnector Association="LabsModel.FK__Adrese__IDMjesta__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="LabsModel.FK__Adrese__IDStanov__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="LabsModel.FK_Korisnici_Odjel" ManuallyRouted="false" />
+        <AssociationConnector Association="LabsModel.FK_Korisnici_Uloge" ManuallyRouted="false" />
+        <AssociationConnector Association="LabsModel.FK_Utakmice_Reprezentacije" ManuallyRouted="false" />
+        <AssociationConnector Association="LabsModel.FK_Utakmice_Reprezentacije1" ManuallyRouted="false" />
+        <AssociationConnector Association="LabsModel.FK_Tecajevi_Valute" ManuallyRouted="false" />
+        <AssociationConnector Association="LabsModel.FK_Tecajevi_Valute1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LabsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Adrese">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDMjesta" Type="int" Nullable="false" />
+    <Property Name="IDStanovnika" Type="int" Nullable="false" />
+    <Property Name="Adresa" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="AktivnaDo" Type="date" />
+  </EntityType>
+  <EntityType Name="Books">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="MainAuthor" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Pages" Type="int" Nullable="false" />
+    <Property Name="Genre" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cars">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Manufacturer" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Model" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Power" Type="int" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Currencies">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Rate" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="InventurniZapisi">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Artikl" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Kolicina" Type="int" Nullable="false" />
+    <Property Name="StvarnaKolicina" Type="int" Nullable="false" />
+    <Property Name="Zaduzen" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Korisnici">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ImePrezime" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="IdUloge" Type="int" Nullable="false" />
+    <Property Name="IdOdjela" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Mjesta">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Odjel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="InStock" Type="int" Nullable="false" />
+    <Property Name="MinStock" Type="int" Nullable="false" />
+    <Property Name="UnitPrice" Type="float" Nullable="false" />
+    <Property Name="Username" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Reprezentacije">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Oznaka" Type="varchar" MaxLength="50" />
+    <Property Name="Naziv" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Stanovnici">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ime" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Prezime" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="OIB" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="JMBG" Type="varchar" MaxLength="13" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Tasks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Text" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="Importance" Type="int" />
+    <Property Name="Category" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Assignee" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ParentTask" Type="int" />
+    <Property Name="Status" Type="varchar" MaxLength="255" />
+    <Property Name="Deadline" Type="date" />
+    <Property Name="Priority" Type="int" />
+  </EntityType>
+  <EntityType Name="Tecajevi">
+    <Key>
+      <PropertyRef Name="IdValute1" />
+      <PropertyRef Name="IdValute2" />
+    </Key>
+    <Property Name="IdValute1" Type="int" Nullable="false" />
+    <Property Name="IdValute2" Type="int" Nullable="false" />
+    <Property Name="Vrijednost" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tm_Tasks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Text" Type="varchar" MaxLength="255" />
+    <Property Name="Priority" Type="int" />
+    <Property Name="Category" Type="varchar" MaxLength="50" />
+    <Property Name="Assignee" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Uloge">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Naziv" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Utakmice">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdReprezentacije1" Type="int" Nullable="false" />
+    <Property Name="IdReprezentacije2" Type="int" Nullable="false" />
+    <Property Name="Golovi1" Type="int" Nullable="false" />
+    <Property Name="Golovi2" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Valute">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Oznaka" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Naziv" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__Adrese__IDMjesta__3C69FB99">
+    <End Role="Mjesta" Type="Self.Mjesta" Multiplicity="1" />
+    <End Role="Adrese" Type="Self.Adrese" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mjesta">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Adrese">
+        <PropertyRef Name="IDMjesta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Adrese__IDStanov__3D5E1FD2">
+    <End Role="Stanovnici" Type="Self.Stanovnici" Multiplicity="1" />
+    <End Role="Adrese" Type="Self.Adrese" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stanovnici">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Adrese">
+        <PropertyRef Name="IDStanovnika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Korisnici_Odjel">
+    <End Role="Odjel" Type="Self.Odjel" Multiplicity="1" />
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Odjel">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Korisnici">
+        <PropertyRef Name="IdOdjela" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Korisnici_Uloge">
+    <End Role="Uloge" Type="Self.Uloge" Multiplicity="1" />
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uloge">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Korisnici">
+        <PropertyRef Name="IdUloge" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tecajevi_Valute">
+    <End Role="Valute" Type="Self.Valute" Multiplicity="1" />
+    <End Role="Tecajevi" Type="Self.Tecajevi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Valute">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tecajevi">
+        <PropertyRef Name="IdValute1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tecajevi_Valute1">
+    <End Role="Valute" Type="Self.Valute" Multiplicity="1" />
+    <End Role="Tecajevi" Type="Self.Tecajevi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Valute">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tecajevi">
+        <PropertyRef Name="IdValute2" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Utakmice_Reprezentacije">
+    <End Role="Reprezentacije" Type="Self.Reprezentacije" Multiplicity="1" />
+    <End Role="Utakmice" Type="Self.Utakmice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reprezentacije">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Utakmice">
+        <PropertyRef Name="IdReprezentacije1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Utakmice_Reprezentacije1">
+    <End Role="Reprezentacije" Type="Self.Reprezentacije" Multiplicity="1" />
+    <End Role="Utakmice" Type="Self.Utakmice" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reprezentacije">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Utakmice">
+        <PropertyRef Name="IdReprezentacije2" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LabsModelStoreContainer">
+    <EntitySet Name="Adrese" EntityType="Self.Adrese" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Books" EntityType="Self.Books" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cars" EntityType="Self.Cars" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Currencies" EntityType="Self.Currencies" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="InventurniZapisi" EntityType="Self.InventurniZapisi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Korisnici" EntityType="Self.Korisnici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Mjesta" EntityType="Self.Mjesta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Odjel" EntityType="Self.Odjel" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Reprezentacije" EntityType="Self.Reprezentacije" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Stanovnici" EntityType="Self.Stanovnici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tasks" EntityType="Self.Tasks" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tecajevi" EntityType="Self.Tecajevi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tm_Tasks" EntityType="Self.tm_Tasks" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Uloge" EntityType="Self.Uloge" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Utakmice" EntityType="Self.Utakmice" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Valute" EntityType="Self.Valute" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Adrese__IDMjesta__3C69FB99" Association="Self.FK__Adrese__IDMjesta__3C69FB99">
+      <End Role="Mjesta" EntitySet="Mjesta" />
+      <End Role="Adrese" EntitySet="Adrese" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Adrese__IDStanov__3D5E1FD2" Association="Self.FK__Adrese__IDStanov__3D5E1FD2">
+      <End Role="Stanovnici" EntitySet="Stanovnici" />
+      <End Role="Adrese" EntitySet="Adrese" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Korisnici_Odjel" Association="Self.FK_Korisnici_Odjel">
+      <End Role="Odjel" EntitySet="Odjel" />
+      <End Role="Korisnici" EntitySet="Korisnici" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Korisnici_Uloge" Association="Self.FK_Korisnici_Uloge">
+      <End Role="Uloge" EntitySet="Uloge" />
+      <End Role="Korisnici" EntitySet="Korisnici" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tecajevi_Valute" Association="Self.FK_Tecajevi_Valute">
+      <End Role="Valute" EntitySet="Valute" />
+      <End Role="Tecajevi" EntitySet="Tecajevi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tecajevi_Valute1" Association="Self.FK_Tecajevi_Valute1">
+      <End Role="Valute" EntitySet="Valute" />
+      <End Role="Tecajevi" EntitySet="Tecajevi" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Utakmice_Reprezentacije" Association="Self.FK_Utakmice_Reprezentacije">
+      <End Role="Reprezentacije" EntitySet="Reprezentacije" />
+      <End Role="Utakmice" EntitySet="Utakmice" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Utakmice_Reprezentacije1" Association="Self.FK_Utakmice_Reprezentacije1">
+      <End Role="Reprezentacije" EntitySet="Reprezentacije" />
+      <End Role="Utakmice" EntitySet="Utakmice" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

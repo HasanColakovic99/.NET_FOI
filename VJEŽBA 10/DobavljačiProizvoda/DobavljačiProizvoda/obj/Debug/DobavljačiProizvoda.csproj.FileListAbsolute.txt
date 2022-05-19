@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\bin\Debug\DobavljačiProizvoda.exe.config
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\bin\Debug\DobavljačiProizvoda.exe
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\bin\Debug\DobavljačiProizvoda.pdb
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.ChooseSupplier.resources
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.Form1.resources
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.Properties.Resources.resources
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.csproj.CopyComplete
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.exe
+C:\Users\DELL\Desktop\DobavljačiProizvoda\DobavljačiProizvoda\obj\Debug\DobavljačiProizvoda.pdb

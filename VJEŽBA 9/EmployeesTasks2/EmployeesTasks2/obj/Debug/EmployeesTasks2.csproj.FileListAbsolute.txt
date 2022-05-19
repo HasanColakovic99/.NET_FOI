@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\bin\Debug\EmployeesTasks2.exe.config
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\bin\Debug\EmployeesTasks2.exe
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\bin\Debug\EmployeesTasks2.pdb
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\obj\Debug\EmployeesTasks2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\obj\Debug\EmployeesTasks2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\obj\Debug\EmployeesTasks2.Properties.Resources.resources
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\obj\Debug\EmployeesTasks2.Tasks.resources
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\obj\Debug\EmployeesTasks2.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\obj\Debug\EmployeesTasks2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\obj\Debug\EmployeesTasks2.csproj.CopyComplete
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\obj\Debug\EmployeesTasks2.exe
+C:\Users\DELL\Desktop\EmployeesTasks2\EmployeesTasks2\obj\Debug\EmployeesTasks2.pdb

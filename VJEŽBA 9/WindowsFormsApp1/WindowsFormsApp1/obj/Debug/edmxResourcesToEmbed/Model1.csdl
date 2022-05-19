@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LabsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Adrese">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IDMjesta" Type="Int32" Nullable="false" />
+    <Property Name="IDStanovnika" Type="Int32" Nullable="false" />
+    <Property Name="Adresa" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AktivnaDo" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Mjesta" Relationship="Self.FK__Adrese__IDMjesta__3C69FB99" FromRole="Adrese" ToRole="Mjesta" />
+    <NavigationProperty Name="Stanovnici" Relationship="Self.FK__Adrese__IDStanov__3D5E1FD2" FromRole="Adrese" ToRole="Stanovnici" />
+  </EntityType>
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MainAuthor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Pages" Type="Int32" Nullable="false" />
+    <Property Name="Genre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Car">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Manufacturer" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Model" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Power" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="0" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Currency">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Rate" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityType Name="InventurniZapisi">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Artikl" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Kolicina" Type="Int32" Nullable="false" />
+    <Property Name="StvarnaKolicina" Type="Int32" Nullable="false" />
+    <Property Name="Zaduzen" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Korisnici">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ImePrezime" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="IdUloge" Type="Int32" Nullable="false" />
+    <Property Name="IdOdjela" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Odjel" Relationship="Self.FK_Korisnici_Odjel" FromRole="Korisnici" ToRole="Odjel" />
+    <NavigationProperty Name="Uloge" Relationship="Self.FK_Korisnici_Uloge" FromRole="Korisnici" ToRole="Uloge" />
+  </EntityType>
+  <EntityType Name="Mjesta">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Adrese" Relationship="Self.FK__Adrese__IDMjesta__3C69FB99" FromRole="Mjesta" ToRole="Adrese" />
+  </EntityType>
+  <EntityType Name="Odjel">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Korisnicis" Relationship="Self.FK_Korisnici_Odjel" FromRole="Odjel" ToRole="Korisnici" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="InStock" Type="Int32" Nullable="false" />
+    <Property Name="MinStock" Type="Int32" Nullable="false" />
+    <Property Name="UnitPrice" Type="Double" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Reprezentacije">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Oznaka" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Utakmice" Relationship="Self.FK_Utakmice_Reprezentacije" FromRole="Reprezentacije" ToRole="Utakmice" />
+    <NavigationProperty Name="Utakmice1" Relationship="Self.FK_Utakmice_Reprezentacije1" FromRole="Reprezentacije" ToRole="Utakmice" />
+  </EntityType>
+  <EntityType Name="Stanovnici">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ime" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Prezime" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="OIB" Type="String" MaxLength="11" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="JMBG" Type="String" MaxLength="13" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Adrese" Relationship="Self.FK__Adrese__IDStanov__3D5E1FD2" FromRole="Stanovnici" ToRole="Adrese" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Text" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Importance" Type="Int32" />
+    <Property Name="Category" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Assignee" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ParentTask" Type="Int32" />
+    <Property Name="Status" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Deadline" Type="DateTime" Precision="0" />
+    <Property Name="Priority" Type="Int32" />
+  </EntityType>
+  <EntityType Name="Tecajevi">
+    <Key>
+      <PropertyRef Name="IdValute1" />
+      <PropertyRef Name="IdValute2" />
+    </Key>
+    <Property Name="IdValute1" Type="Int32" Nullable="false" />
+    <Property Name="IdValute2" Type="Int32" Nullable="false" />
+    <Property Name="Vrijednost" Type="Double" Nullable="false" />
+    <NavigationProperty Name="Valute" Relationship="Self.FK_Tecajevi_Valute" FromRole="Tecajevi" ToRole="Valute" />
+    <NavigationProperty Name="Valute1" Relationship="Self.FK_Tecajevi_Valute1" FromRole="Tecajevi" ToRole="Valute" />
+  </EntityType>
+  <EntityType Name="tm_Tasks">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Text" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Priority" Type="Int32" />
+    <Property Name="Category" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Assignee" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Uloge">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Korisnicis" Relationship="Self.FK_Korisnici_Uloge" FromRole="Uloge" ToRole="Korisnici" />
+  </EntityType>
+  <EntityType Name="Utakmouse">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IdReprezentacije1" Type="Int32" Nullable="false" />
+    <Property Name="IdReprezentacije2" Type="Int32" Nullable="false" />
+    <Property Name="Golovi1" Type="Int32" Nullable="false" />
+    <Property Name="Golovi2" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Reprezentacije" Relationship="Self.FK_Utakmice_Reprezentacije" FromRole="Utakmice" ToRole="Reprezentacije" />
+    <NavigationProperty Name="Reprezentacije1" Relationship="Self.FK_Utakmice_Reprezentacije1" FromRole="Utakmice" ToRole="Reprezentacije" />
+  </EntityType>
+  <EntityType Name="Valute">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Oznaka" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Naziv" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Tecajevis" Relationship="Self.FK_Tecajevi_Valute" FromRole="Valute" ToRole="Tecajevi" />
+    <NavigationProperty Name="Tecajevis1" Relationship="Self.FK_Tecajevi_Valute1" FromRole="Valute" ToRole="Tecajevi" />
+  </EntityType>
+  <Association Name="FK__Adrese__IDMjesta__3C69FB99">
+    <End Role="Mjesta" Type="Self.Mjesta" Multiplicity="1" />
+    <End Role="Adrese" Type="Self.Adrese" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Mjesta">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Adrese">
+        <PropertyRef Name="IDMjesta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Adrese__IDStanov__3D5E1FD2">
+    <End Role="Stanovnici" Type="Self.Stanovnici" Multiplicity="1" />
+    <End Role="Adrese" Type="Self.Adrese" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Stanovnici">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Adrese">
+        <PropertyRef Name="IDStanovnika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Korisnici_Odjel">
+    <End Role="Odjel" Type="Self.Odjel" Multiplicity="1" />
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Odjel">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Korisnici">
+        <PropertyRef Name="IdOdjela" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Korisnici_Uloge">
+    <End Role="Uloge" Type="Self.Uloge" Multiplicity="1" />
+    <End Role="Korisnici" Type="Self.Korisnici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Uloge">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Korisnici">
+        <PropertyRef Name="IdUloge" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Utakmice_Reprezentacije">
+    <End Role="Reprezentacije" Type="Self.Reprezentacije" Multiplicity="1" />
+    <End Role="Utakmice" Type="Self.Utakmouse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reprezentacije">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Utakmice">
+        <PropertyRef Name="IdReprezentacije1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Utakmice_Reprezentacije1">
+    <End Role="Reprezentacije" Type="Self.Reprezentacije" Multiplicity="1" />
+    <End Role="Utakmice" Type="Self.Utakmouse" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Reprezentacije">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Utakmice">
+        <PropertyRef Name="IdReprezentacije2" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tecajevi_Valute">
+    <End Role="Valute" Type="Self.Valute" Multiplicity="1" />
+    <End Role="Tecajevi" Type="Self.Tecajevi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Valute">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tecajevi">
+        <PropertyRef Name="IdValute1" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tecajevi_Valute1">
+    <End Role="Valute" Type="Self.Valute" Multiplicity="1" />
+    <End Role="Tecajevi" Type="Self.Tecajevi" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Valute">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Tecajevi">
+        <PropertyRef Name="IdValute2" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LabsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Adrese" EntityType="Self.Adrese" />
+    <EntitySet Name="Books" EntityType="Self.Book" />
+    <EntitySet Name="Cars" EntityType="Self.Car" />
+    <EntitySet Name="Currencies" EntityType="Self.Currency" />
+    <EntitySet Name="InventurniZapisis" EntityType="Self.InventurniZapisi" />
+    <EntitySet Name="Korisnicis" EntityType="Self.Korisnici" />
+    <EntitySet Name="Mjestas" EntityType="Self.Mjesta" />
+    <EntitySet Name="Odjels" EntityType="Self.Odjel" />
+    <EntitySet Name="Products" EntityType="Self.Product" />
+    <EntitySet Name="Reprezentacijes" EntityType="Self.Reprezentacije" />
+    <EntitySet Name="Stanovnicis" EntityType="Self.Stanovnici" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="Tasks" EntityType="Self.Task" />
+    <EntitySet Name="Tecajevis" EntityType="Self.Tecajevi" />
+    <EntitySet Name="tm_Tasks" EntityType="Self.tm_Tasks" />
+    <EntitySet Name="Uloges" EntityType="Self.Uloge" />
+    <EntitySet Name="Utakmice" EntityType="Self.Utakmouse" />
+    <EntitySet Name="Valutes" EntityType="Self.Valute" />
+    <AssociationSet Name="FK__Adrese__IDMjesta__3C69FB99" Association="Self.FK__Adrese__IDMjesta__3C69FB99">
+      <End Role="Mjesta" EntitySet="Mjestas" />
+      <End Role="Adrese" EntitySet="Adrese" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Adrese__IDStanov__3D5E1FD2" Association="Self.FK__Adrese__IDStanov__3D5E1FD2">
+      <End Role="Stanovnici" EntitySet="Stanovnicis" />
+      <End Role="Adrese" EntitySet="Adrese" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Korisnici_Odjel" Association="Self.FK_Korisnici_Odjel">
+      <End Role="Odjel" EntitySet="Odjels" />
+      <End Role="Korisnici" EntitySet="Korisnicis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Korisnici_Uloge" Association="Self.FK_Korisnici_Uloge">
+      <End Role="Uloge" EntitySet="Uloges" />
+      <End Role="Korisnici" EntitySet="Korisnicis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Utakmice_Reprezentacije" Association="Self.FK_Utakmice_Reprezentacije">
+      <End Role="Reprezentacije" EntitySet="Reprezentacijes" />
+      <End Role="Utakmice" EntitySet="Utakmice" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Utakmice_Reprezentacije1" Association="Self.FK_Utakmice_Reprezentacije1">
+      <End Role="Reprezentacije" EntitySet="Reprezentacijes" />
+      <End Role="Utakmice" EntitySet="Utakmice" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tecajevi_Valute" Association="Self.FK_Tecajevi_Valute">
+      <End Role="Valute" EntitySet="Valutes" />
+      <End Role="Tecajevi" EntitySet="Tecajevis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tecajevi_Valute1" Association="Self.FK_Tecajevi_Valute1">
+      <End Role="Valute" EntitySet="Valutes" />
+      <End Role="Tecajevi" EntitySet="Tecajevis" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
